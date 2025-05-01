@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: brown;
+}
+
+
+.parent {
+    background-color: burlywood;
+    width: 300px;
+    margin-top: 50px;
+    padding: 20px;
+}
+p {
+    justify-content: center;
+}
+.stychild {
+    margin-top: 50px;
+    background: rgb(0, 127, 238);
+    color: rgb(255, 255, 255);
+}
